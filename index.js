@@ -1,5 +1,5 @@
 // Write your code here!\
-const testVar = "hi"
+const var = "hi"
 
 /* Enter the code to remove the node element here */
 document.querySelector("main#main").remove();
