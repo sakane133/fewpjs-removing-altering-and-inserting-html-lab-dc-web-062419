@@ -1,4 +1,4 @@
-// Write your code here!\
+// Write your code here!
 
 /* Enter the code to remove the node element here */
 document.querySelector("main#main").remove();
